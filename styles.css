@@ -1,0 +1,59 @@
+.inicio_web {
+font-family:Georgia, 'Times New Roman', Times, serif;
+color: rgb(253, 253, 253);
+background-color: rgb(55, 55, 136);
+height: 100%;
+
+
+}
+
+.contenido_inicio{
+background-color: chocolate;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+
+#Contenido
+{
+    height: 100%;
+    margin: auto;
+}
+
+#Inicio
+{
+margin:auto;
+width: 100%;
+}
+
+.Titulo
+{
+font-family: 'Courier New', Courier, monospace;
+color: chartreuse;
+}
+
+.Logica{
+background-color: rgb(51, 48, 48);
+margin: auto;
+text-align: center;
+}
+
+.boton{
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+
+.Imagen{
+
+    width: 100%;
+    height: 87vh;
+    padding: 20px;
+    margin: auto;
+}
+
+.Imagen_1{
+    width: 100%;
+    height: 87vh;
+    padding: 20px;
+    margin: auto;
+}
