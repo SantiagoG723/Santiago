@@ -57,3 +57,13 @@ text-align: center;
     padding: 20px;
     margin: auto;
 }
+
+.cuerpo_web{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    
+}
+
+#Cuerpo{
+    background-color: brown;
+}
